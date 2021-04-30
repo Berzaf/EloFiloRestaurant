@@ -1,10 +1,9 @@
 import React, { Component,Fragment }  from 'react';
-import { Navbar, NavbarBrand, Nav, NavbarToggler, Collapse, NavItem, Jumbotron,
+import { Navbar, Nav, NavbarToggler, Collapse, NavItem, Jumbotron,
     Button, Modal, ModalHeader, ModalBody,
     Form, FormGroup, Input, Label } from 'reactstrap';
 import { NavLink } from 'react-router-dom';
 import './Header.css';
-import {Link} from 'react-router-dom';
 
 
 class Header extends Component {
@@ -46,12 +45,9 @@ class Header extends Component {
                 <header className="jumbotron jumbotron-fluid mb-0">
                     <div className="container">
                         <div className="row align-items-center">
-                            <div className="col-4 col-sm-3 col-md-2 align-self-center">
-                                <Link to="/"><img src={process.env.PUBLIC_URL + '/assets/images/logo.png'} alt="" className="image-fluid img-thumbnail headerLogo scale-in-center"/></Link>
-                            </div>
+  
                             <div className="col">
-                                <h1 className="slide-in-left">EloFilo Restaurant</h1>
-                                <h2 className="slide-in-right">a better way to enjoy</h2>
+                                <h1>EloFilo Restaurant</h1>
                             </div>
                             
                         </div>

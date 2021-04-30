@@ -19,10 +19,15 @@ function Footer(props) {
                                     <NavLink to="/about" activeClassName="active-footer-link">About</NavLink>
                                 </li>
                                 <li>
-                                    <NavLink to="/shop" activeClassName="active-footer-link">Menu</NavLink>
+                                    <NavLink exact to="/contact" activeClassName="active-footer-link">Contact</NavLink>
+
                                 </li>
                                 <li>
-                                    <NavLink exact to="/contact" activeClassName="active-footer-link">Contact</NavLink>
+                                    <NavLink to="/product" activeClassName="active-footer-link">Product</NavLink>
+                                </li>
+                                <li>
+                                    <NavLink exact to="/gallery" activeClassName="active-footer-link">Gallery</NavLink>
+
                                 </li>
                                 
                             </ul>

@@ -28,7 +28,7 @@ const About = (props) => {
                     <div class="container">
 
                         <div class="row row-content align-items-center">
-                            <div id="about" class="col-6 ">
+                            <div id="about">
 
                                 <img src={process.env.PUBLIC_URL + '/assets/images/image2.jpg'} width="500" height="500" alt="" className="image-about"/>
                             </div>

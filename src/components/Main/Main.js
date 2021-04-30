@@ -16,9 +16,8 @@ class Main extends Component{
         aboutPage: false,
         contactPage: false,
         productPage: false,
+        galleryPage:false,
     };
-
-    
 
 
     render(){
@@ -46,6 +45,9 @@ class Main extends Component{
 
                         <Route path="/gallery">
                             <Gallery />
+                        </Route>
+                        <Route path="/EloFiloRestaurant">
+                            <Home />
                         </Route>
 
                         <Redirect to="/"/>

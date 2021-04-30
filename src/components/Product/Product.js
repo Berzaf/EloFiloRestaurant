@@ -16,7 +16,6 @@ function Product() {
         <Fragment>
             <div id='product'>
                 <h1>Special Meal</h1>
-                <p>Lorem wewewewew loveeee you our customers</p>
                 <div className="a-container">
                     <Productbox image={pimg1} title="Burger" price ="$14"/>
                     <Productbox image={pimg2} title="Pizza" price="$17"/>
@@ -29,7 +28,6 @@ function Product() {
             </div>
             <div id='product'>
                 <h1>Special Drinks</h1>
-                <p>Lorem wewewewew loveeee you our customers</p>
                 <div className="a-container">
                     <Productbox image={pimg5} title="Cocktail" price ="$8"/>
                     <Productbox image={pimg6} title="Juice" price="$12"/>

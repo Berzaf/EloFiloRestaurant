@@ -23,7 +23,7 @@ const useStyles = makeStyles((theme) => ({
   },
   title: {
     color: '#fff',
-    fontSize: '4.5rem',
+    fontSize: '4.3rem',
   },
 }));
 export default function Home() {
