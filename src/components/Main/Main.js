@@ -13,10 +13,7 @@ import Gallery from '../Gallery/Gallery';
 class Main extends Component{
     state = {
         homePage: true,
-        aboutPage: false,
-        contactPage: false,
-        productPage: false,
-        galleryPage:false,
+
     };
 
 
@@ -46,7 +43,7 @@ class Main extends Component{
                         <Route path="/gallery">
                             <Gallery />
                         </Route>
-                        <Route path="/EloFiloRestaurant">
+                        <Route path="/EloFiloRestaurantReact">
                             <Home />
                         </Route>
 
