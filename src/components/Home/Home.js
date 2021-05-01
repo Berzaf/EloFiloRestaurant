@@ -1,7 +1,6 @@
 import React, { Fragment } from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import { CssBaseline } from '@material-ui/core';
-import Reservation from '../Reservation/Reservation';
 
 const useStyles = makeStyles((theme) => ({
   hero: {
@@ -35,7 +34,6 @@ export default function Home() {
                     Welcome to <br />
                     <span className={classes.colorText}>EloFilo Restaurant</span>
                 </h1>
-                <Reservation />
         
         </div>
              <CssBaseline />

@@ -116,7 +116,7 @@ const Gallery = () => {
             <Carousel.Item interval={2000}>
                 <img
                 className="d-block w-100"
-                src={process.env.PUBLIC_URL + '/assets/images/specialWisky.jpg'}
+                src={process.env.PUBLIC_URL + '/assets/images/SpecialWisky.jpg'}
                 />
                 <Carousel.Caption>
                 <h3>Foods and Drinks</h3>
@@ -126,7 +126,7 @@ const Gallery = () => {
             <Carousel.Item interval={2000}>
                 <img
                 className="d-block w-100"
-                src={process.env.PUBLIC_URL + '/assets/images/fishFood.jpg'}
+                src={process.env.PUBLIC_URL + '/assets/images/FishFood.jpg'}
                 />
                 <Carousel.Caption>
                 <h3>Foods and Drinks</h3>
