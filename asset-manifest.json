@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/EloFiloRestaurant/static/css/main.3084369b.chunk.css",
+    "main.js": "/EloFiloRestaurant/static/js/main.3c236454.chunk.js",
+    "main.js.map": "/EloFiloRestaurant/static/js/main.3c236454.chunk.js.map",
+    "runtime-main.js": "/EloFiloRestaurant/static/js/runtime-main.7e830a9c.js",
+    "runtime-main.js.map": "/EloFiloRestaurant/static/js/runtime-main.7e830a9c.js.map",
+    "static/css/2.608d744e.chunk.css": "/EloFiloRestaurant/static/css/2.608d744e.chunk.css",
+    "static/js/2.717d2891.chunk.js": "/EloFiloRestaurant/static/js/2.717d2891.chunk.js",
+    "static/js/2.717d2891.chunk.js.map": "/EloFiloRestaurant/static/js/2.717d2891.chunk.js.map",
+    "static/js/3.0f50ef1b.chunk.js": "/EloFiloRestaurant/static/js/3.0f50ef1b.chunk.js",
+    "static/js/3.0f50ef1b.chunk.js.map": "/EloFiloRestaurant/static/js/3.0f50ef1b.chunk.js.map",
+    "index.html": "/EloFiloRestaurant/index.html",
+    "static/css/2.608d744e.chunk.css.map": "/EloFiloRestaurant/static/css/2.608d744e.chunk.css.map",
+    "static/css/main.3084369b.chunk.css.map": "/EloFiloRestaurant/static/css/main.3084369b.chunk.css.map",
+    "static/js/2.717d2891.chunk.js.LICENSE.txt": "/EloFiloRestaurant/static/js/2.717d2891.chunk.js.LICENSE.txt",
+    "static/media/FishFood.9d5f53fc.jpg": "/EloFiloRestaurant/static/media/FishFood.9d5f53fc.jpg",
+    "static/media/burgerFood.b419f9fa.jpg": "/EloFiloRestaurant/static/media/burgerFood.b419f9fa.jpg",
+    "static/media/drink1.3136a631.jpg": "/EloFiloRestaurant/static/media/drink1.3136a631.jpg",
+    "static/media/font-awesome.css": "/EloFiloRestaurant/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/juiceDrink3.11577c5b.jpg": "/EloFiloRestaurant/static/media/juiceDrink3.11577c5b.jpg",
+    "static/media/specialFoodunsplash.f561d10e.jpg": "/EloFiloRestaurant/static/media/specialFoodunsplash.f561d10e.jpg",
+    "static/media/specialJuice.1602930d.jpg": "/EloFiloRestaurant/static/media/specialJuice.1602930d.jpg",
+    "static/media/specialPizza.19daec50.jpg": "/EloFiloRestaurant/static/media/specialPizza.19daec50.jpg",
+    "static/media/wineDrink2.0c7f51be.jpg": "/EloFiloRestaurant/static/media/wineDrink2.0c7f51be.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e830a9c.js",
+    "static/css/2.608d744e.chunk.css",
+    "static/js/2.717d2891.chunk.js",
+    "static/css/main.3084369b.chunk.css",
+    "static/js/main.3c236454.chunk.js"
+  ]
+}
