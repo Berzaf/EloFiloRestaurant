@@ -1,0 +1,75 @@
+.row-content{
+    padding-top: 4rem;
+    padding-bottom: 4rem; 
+}
+
+h3, h4{
+    font-family: 'Yellowtail', cursive;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/***********About***********/
+
+#aboutus h2 {
+    padding: 40px;
+    font-size: 40px;
+  }
+  .aboutus {
+    margin: 30px 0;
+    display: flex;
+    
+  }
+  .aboutus-title h2 {
+    text-align: center;
+    font-size: 30px;
+    text-transform: capitalize;
+
+  }
+  .hotmug{
+    margin-top: 10px;
+    color: lightsalmon;
+    margin-bottom: 40px;
+    margin-right: 40px;
+
+    font-size: 100px;
+  }
+  .hotmug:hover {
+    color: rgb(221, 83, 19);
+    transform: translateY(-15px)
+    
+  }
+  .mortarpestle{
+    margin-top: 10px;
+    color: lightsalmon;
+    margin-bottom: 40px;
+    margin-right: 40px;
+
+    font-size: 100px;
+  }
+
+  .mortarpestle:hover {
+    color: rgb(221, 83, 19);
+    transform: translateY(-15px)
+    
+  }
+  .aboutus-subtitle {
+    color: rgb(175, 147, 21);
+    font-size: 60px;
+
+  }
+  .aboutus-info {
+    margin: 40px ;
+    color: black;
+    font-size: 30px;
+    line-height: 2.5;
+    text-align: justify;
+  }
+
+  .aboutus-icon:hover .fas {
+    color: rgb(221, 83, 19);
+    transform: translateY(-15px)
+    
+  }
